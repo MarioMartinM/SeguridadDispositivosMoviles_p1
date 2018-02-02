@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class MiServicio extends Service {
     MediaPlayer miCancion;
-    private static final String TAG = "Clase MiServicio ";
+    private static final String TAG = "Clase MiServicioo ";
 
     @Override
     public IBinder onBind(Intent arg0) {
